@@ -1,1 +1,1 @@
-## Implementation of an Enigma machine (and Enigma code breaker) in C++.
+# Implementation of an Enigma machine (and Enigma code breaker) in C++.
